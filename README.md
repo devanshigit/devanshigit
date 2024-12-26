@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="80" src="https://github.com/devanshigit/devanshigit/blob/main/The-World-of-Studio-Ghibli-v2-1600x650.avif"/>
+  <img height="200" src="https://github.com/devanshigit/devanshigit/blob/main/The-World-of-Studio-Ghibli-v2-1600x650.avif"/>
 </div>
 
 ###
