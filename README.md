@@ -10,14 +10,6 @@
   </a>
 </div>
 
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=devanshigit.devanshigit&"  />
-</div>
-
-###
-
 <h1 align="center">Hey! Devanshi here👋</h1>
 
 ###
@@ -26,7 +18,7 @@
 
 ###
 
-<p align="left">I am currently a pre-final year student at KIIT University, Bhubaneswar. <br><br>I believe in the power of continuous learning and enjoy the process of solving problems through codes and even though my GitHub is a bit bare at the moment, I'm actively working on building my skills and creating exciting projects.</p>
+<p align="left">I am currently a pre-final year student at KIIT University, Bhubaneswar.I believe in the power of continuous learning and enjoy the process of solving problems through codes and even though my GitHub is a bit bare at the moment, I'm actively working on building my skills and creating exciting projects.</p>
 
 ###
 
