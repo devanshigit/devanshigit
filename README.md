@@ -1,5 +1,4 @@
 <h1 align="center">Hey! Devanshi here👋</h1>
-###
 <div align="center">
   <img height="200" src="https://github.com/devanshigit/devanshigit/blob/main/The-World-of-Studio-Ghibli-v2-1600x650.avif"/>
 </div>
