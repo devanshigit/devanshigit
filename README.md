@@ -1,11 +1,56 @@
-👋 Hello there! I'm Devanshi, a passionate learner and aspiring developer. 🚀
-🌱 Currently on a journey to explore the vast world of programming and software development.
-💡 I believe in the power of continuous learning and enjoy the process of solving problems through code.
+<div align="center">
+  <img height="80" src="https://images.app.goo.gl/K31x1ETwRbQsxGxC9"  />
+</div>
 
-🚧 Although my GitHub is a bit bare at the moment, I'm actively working on building my skills and creating exciting projects. Stay tuned for some amazing content!
-🔭 I'm currently focusing on machine learning, data analytics and some here and there web development, and I'm always excited to dive into new technologies.
+###
 
-📚 I'm a firm believer in the open-source community and the collaborative nature of programming. Looking forward to contributing and learning from the community.
-👨‍💻 My current tech stack includes Java, C, Python, Google Collab, VS Code and more.
+<div align="center">
+  <a href="https://www.linkedin.com/in/devanshi-shrivastava-7b3129279/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+</div>
 
-📈 Learning every day, one line of code at a time. Excited about the journey ahead! ✨
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=devanshigit.devanshigit&"  />
+</div>
+
+###
+
+<h1 align="center">Hey! Devanshi here👋</h1>
+
+###
+
+<h3 align="left"></h3>
+
+###
+
+<p align="left">I am currently a pre-final year student at KIIT University, Bhubaneswar. <br><br>I believe in the power of continuous learning and enjoy the process of solving problems through codes and even though my GitHub is a bit bare at the moment, I'm actively working on building my skills and creating exciting projects.</p>
+
+###
+
+<h4 align="left">🛠 What I work with!</h4>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=devanshigit&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+</div>
+
+###
